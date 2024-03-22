@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="BaseResource" load_steps=2 format=3 uid="uid://8xwybof5ur0n"]
+
+[ext_resource type="Script" path="res://resources/BaseResource.gd" id="1_c8x3d"]
+
+[resource]
+script = ExtResource("1_c8x3d")
+id = "res_gold"
+name = "Gold"
+rarity = 4
+description = "Shiny gold."

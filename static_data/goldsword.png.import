@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://5qx7rr4dbdh"
-path="res://.godot/imported/goldsword.png-3f6006a2d83b78e8826acc1916a726d8.ctex"
+path="res://.godot/imported/goldsword.png-1a080bc5917edba7f187aa5c1b434ec4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://resources/goldsword.png"
-dest_files=["res://.godot/imported/goldsword.png-3f6006a2d83b78e8826acc1916a726d8.ctex"]
+source_file="res://static_data/goldsword.png"
+dest_files=["res://.godot/imported/goldsword.png-1a080bc5917edba7f187aa5c1b434ec4.ctex"]
 
 [params]
 

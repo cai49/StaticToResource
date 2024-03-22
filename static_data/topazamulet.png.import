@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://badmqbhop1em"
-path="res://.godot/imported/ironsword.png-2992e57e69636859182e054b6bb4b0dc.ctex"
+uid="uid://cyfcn3kdh6t5u"
+path="res://.godot/imported/topazamulet.png-79a86fd745d19011476e2c9d9044139d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://resources/ironsword.png"
-dest_files=["res://.godot/imported/ironsword.png-2992e57e69636859182e054b6bb4b0dc.ctex"]
+source_file="res://static_data/topazamulet.png"
+dest_files=["res://.godot/imported/topazamulet.png-79a86fd745d19011476e2c9d9044139d.ctex"]
 
 [params]
 

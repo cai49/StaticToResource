@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cyfcn3kdh6t5u"
-path="res://.godot/imported/topazamulet.png-251b23d4b29d184c72afbe706f1c2555.ctex"
+uid="uid://bxsoofekmr00w"
+path="res://.godot/imported/bronzesword.png-04a41a258ee5f013594e3cf19ef893ab.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://resources/topazamulet.png"
-dest_files=["res://.godot/imported/topazamulet.png-251b23d4b29d184c72afbe706f1c2555.ctex"]
+source_file="res://static_data/bronzesword.png"
+dest_files=["res://.godot/imported/bronzesword.png-04a41a258ee5f013594e3cf19ef893ab.ctex"]
 
 [params]
 

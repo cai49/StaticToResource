@@ -16,48 +16,60 @@
 				{
 					"typeStr": "3",
 					"name": "rarity"
+				},
+				{
+					"typeStr": "1",
+					"name": "description"
 				}
 			],
 			"lines": [
 				{
 					"id": "res_iron",
 					"name": "Iron",
-					"rarity": 2
+					"rarity": 2,
+					"description": "A moldy bar of Iron Ore. Smashed by dwarves from the ambers that flew from the fire."
 				},
 				{
 					"id": "res_bronze",
 					"name": "Bronze",
-					"rarity": 3
+					"rarity": 3,
+					"description": "Even metals as strong as bronze have the envy from its weaker but beautiful brother."
 				},
 				{
 					"id": "res_gold",
 					"name": "Gold",
-					"rarity": 4
+					"rarity": 4,
+					"description": "Shiny gold."
 				},
 				{
 					"id": "res_amethyst",
 					"name": "Amethyst",
-					"rarity": 10
+					"rarity": 10,
+					"description": "Purple with hints of red and deep blue. Like the darkest Twilight"
 				},
 				{
 					"id": "res_topaz",
 					"name": "Topaz",
-					"rarity": 13
+					"rarity": 13,
+					"description": "Oranges are thought to be named that way after the color, or the fruit?"
 				},
 				{
 					"id": "res_ruby",
 					"name": "Ruby",
-					"rarity": 15
+					"rarity": 15,
+					"description": "RED"
 				},
 				{
 					"id": "res_wood",
 					"name": "Wood",
-					"rarity": 1
+					"rarity": 1,
+					"description": "Just Wood"
 				},
 				{
 					"id": "res_wood_stick",
 					"name": "Wood Stick",
-					"rarity": 1
+					"rarity": 1,
+					"description": "Thinner Wood"
 				}
 			],
 			"separators": [

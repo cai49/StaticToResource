@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b7clmmyc8q7jt"
-path="res://.godot/imported/amethystamulet.png-30ffdf747ed010d3e0ea67df4855e454.ctex"
+uid="uid://budxg03x30u72"
+path="res://.godot/imported/rubyamulet.png-196e738605fcd4e4a4e45527d7e98886.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://resources/amethystamulet.png"
-dest_files=["res://.godot/imported/amethystamulet.png-30ffdf747ed010d3e0ea67df4855e454.ctex"]
+source_file="res://static_data/rubyamulet.png"
+dest_files=["res://.godot/imported/rubyamulet.png-196e738605fcd4e4a4e45527d7e98886.ctex"]
 
 [params]
 

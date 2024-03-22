@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="BaseResource" load_steps=2 format=3 uid="uid://c72oubov4j0x3"]
+
+[ext_resource type="Script" path="res://resources/BaseResource.gd" id="1_7ffq2"]
+
+[resource]
+script = ExtResource("1_7ffq2")
+id = "res_wood_stick"
+name = "Wood Stick"
+rarity = 1
+description = "Thinner Wood"
