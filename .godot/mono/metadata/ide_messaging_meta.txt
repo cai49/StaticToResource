@@ -1,2 +1,0 @@
-﻿61593
-C:/Users/CAI_4/AppData/Roaming/Godot/app_userdata/Godot Version Manager/versions/Godot_v4.2.1-stable_mono_win64/Godot_v4.2.1-stable_mono_win64.exe
