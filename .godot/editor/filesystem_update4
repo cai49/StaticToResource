@@ -1,1 +1,8 @@
-res://resources/BaseResource.gd
+res://tool_scripts/CDBReader.gd
+res://resources/Gold.tres
+res://resources/Amethyst.tres
+res://resources/Topaz.tres
+res://resources/Ruby.tres
+res://resources/Wood.tres
+res://resources/Wood Stick.tres
+res://resources/Bronze.tres

@@ -19,9 +19,10 @@ func _run() -> void:
 			
 			var res_name: String = '%s%s%s%s' % ['res://', RES_FOLDER, new_res.name, '.tres']
 			
-			# Have not found a way to make the updated resources to show until restarting editor
 			if ResourceLoader.exists(res_name):
-				EditorInterface.restart_editor(true)
+				EditorInterface.get_resource_filesystem().scan()
+				new_res.take_over_path(res_name)
+				
 
 			var saveRes: Error = ResourceSaver.save(new_res, res_name)
 			if saveRes != OK:

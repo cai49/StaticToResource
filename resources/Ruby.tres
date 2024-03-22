@@ -1,9 +1,9 @@
 [gd_resource type="Resource" script_class="BaseResource" load_steps=2 format=3 uid="uid://bsf738h106205"]
 
-[ext_resource type="Script" path="res://resources/BaseResource.gd" id="1_457e8"]
+[ext_resource type="Script" path="res://resources/BaseResource.gd" id="1_7y7j7"]
 
 [resource]
-script = ExtResource("1_457e8")
+script = ExtResource("1_7y7j7")
 id = "res_ruby"
 name = "Ruby"
 rarity = 15

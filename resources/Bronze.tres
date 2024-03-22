@@ -1,9 +1,9 @@
 [gd_resource type="Resource" script_class="BaseResource" load_steps=2 format=3 uid="uid://cys7o7yamtq0l"]
 
-[ext_resource type="Script" path="res://resources/BaseResource.gd" id="1_dk3g1"]
+[ext_resource type="Script" path="res://resources/BaseResource.gd" id="1_3n4ih"]
 
 [resource]
-script = ExtResource("1_dk3g1")
+script = ExtResource("1_3n4ih")
 id = "res_bronze"
 name = "Bronze"
 rarity = 3

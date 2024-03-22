@@ -1,9 +1,9 @@
 [gd_resource type="Resource" script_class="BaseResource" load_steps=2 format=3 uid="uid://ma6218s6jtxo"]
 
-[ext_resource type="Script" path="res://resources/BaseResource.gd" id="1_611e2"]
+[ext_resource type="Script" path="res://resources/BaseResource.gd" id="1_blecs"]
 
 [resource]
-script = ExtResource("1_611e2")
+script = ExtResource("1_blecs")
 id = "res_topaz"
 name = "Topaz"
 rarity = 13

@@ -1,17 +1,17 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1711099670
+::res://::1711100285
 icon.svg::CompressedTexture2D::566516050935727782::1711092751::1711092759::1::::<><>::
 README.md::TextFile::-1::1711092985::0::1::::<><>::
-::res://resources/::1711099666
-Amethyst.tres::Resource/BaseResource::3947984964411071631::1711099665::0::1::::<><>::res://resources/BaseResource.gd
-BaseResource.gd::GDScript::-1::1711099634::0::1::::BaseResource<>Resource<>::
-Bronze.tres::Resource/BaseResource::6496502076994563445::1711099665::0::1::::<><>::res://resources/BaseResource.gd
-Gold.tres::Resource/BaseResource::2365091235711708995::1711099665::0::1::::<><>::res://resources/BaseResource.gd
-Iron.tres::Resource/BaseResource::3940773310179033744::1711099665::0::1::::<><>::res://resources/BaseResource.gd
-Ruby.tres::Resource/BaseResource::3662136449246012388::1711099665::0::1::::<><>::res://resources/BaseResource.gd
-Topaz.tres::Resource/BaseResource::844197984312871200::1711099665::0::1::::<><>::res://resources/BaseResource.gd
-Wood Stick.tres::Resource/BaseResource::7075508392083573830::1711099666::0::1::::<><>::res://resources/BaseResource.gd
-Wood.tres::Resource/BaseResource::5393328476761759207::1711099665::0::1::::<><>::res://resources/BaseResource.gd
+::res://resources/::1711100357
+Amethyst.tres::Resource/BaseResource::3947984964411071631::1711100350::0::1::::<><>::res://resources/BaseResource.gd
+BaseResource.gd::GDScript::-1::1711099812::0::1::::BaseResource<>Resource<>::
+Bronze.tres::Resource/BaseResource::6496502076994563445::1711100350::0::1::::<><>::res://resources/BaseResource.gd
+Gold.tres::Resource/BaseResource::2365091235711708995::1711100350::0::1::::<><>::res://resources/BaseResource.gd
+Iron.tres::Resource/BaseResource::3940773310179033744::1711100357::0::1::::<><>::res://resources/BaseResource.gd
+Ruby.tres::Resource/BaseResource::3662136449246012388::1711100350::0::1::::<><>::res://resources/BaseResource.gd
+Topaz.tres::Resource/BaseResource::844197984312871200::1711100350::0::1::::<><>::res://resources/BaseResource.gd
+Wood Stick.tres::Resource/BaseResource::7075508392083573830::1711100350::0::1::::<><>::res://resources/BaseResource.gd
+Wood.tres::Resource/BaseResource::5393328476761759207::1711100350::0::1::::<><>::res://resources/BaseResource.gd
 ::res://static_data/::1711095866
 amethystamulet.png::CompressedTexture2D::4637282419556690581::1710027313::1711094203::1::::<><>::
 bronzesword.png::CompressedTexture2D::4038798195221377492::1710026855::1711094203::1::::<><>::
@@ -19,5 +19,5 @@ goldsword.png::CompressedTexture2D::62945585586024121::1710026953::1711094203::1
 ironsword.png::CompressedTexture2D::70393266398973684::1710026751::1711094203::1::::<><>::
 rubyamulet.png::CompressedTexture2D::3797799252734702355::1710027166::1711094203::1::::<><>::
 topazamulet.png::CompressedTexture2D::6467841639024325028::1710027082::1711094203::1::::<><>::
-::res://tool_scripts/::1711099663
-CDBReader.gd::GDScript::-1::1711099663::0::1::::<>EditorScript<>::
+::res://tool_scripts/::1711100331
+CDBReader.gd::GDScript::-1::1711100331::0::1::::<>EditorScript<>::
